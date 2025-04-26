@@ -1,1 +1,7 @@
-
+/* Custom CSS */
+body {
+  font-family: 'Inter', sans-serif;
+}
+img {
+  object-fit: cover;
+}
